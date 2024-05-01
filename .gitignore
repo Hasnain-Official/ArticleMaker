@@ -1,0 +1,4 @@
+
+# by using command "npm i" will reinstall the packages in node_modules
+node_modules
+package-lock.json
